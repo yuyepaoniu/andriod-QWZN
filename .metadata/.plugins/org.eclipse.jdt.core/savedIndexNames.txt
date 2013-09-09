@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+D:\mycodegit\andriod-QWZN\.metadata\.plugins\org.eclipse.jdt.core
+3439383850.index
+4065850906.index
+1897595705.index
+846964066.index
+2513908897.index
+1791714312.index
