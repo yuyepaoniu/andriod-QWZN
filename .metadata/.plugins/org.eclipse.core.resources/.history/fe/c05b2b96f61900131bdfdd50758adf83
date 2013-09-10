@@ -1,0 +1,7 @@
+package com.example.controls;
+
+import android.widget.ArrayAdapter;
+
+public class UserListAdapter extends ArrayAdapter<T> {
+
+}

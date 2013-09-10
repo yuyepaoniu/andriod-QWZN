@@ -1,0 +1,37 @@
+package com.example.controls;
+
+import android.R.integer;
+import android.R.string;
+
+public class User {
+
+	int AskedNum = 0;
+	string LastMsg;
+	string Username;
+
+	public void SetAskedNum(int num) {
+		this.AskedNum = num;
+	}
+
+	public int GetAskedNum() {
+		return this.AskedNum;
+	}
+
+	public string getLastMsg() {
+		return LastMsg;
+	}
+
+	public void setLastMsg(string lastMsg) {
+		LastMsg = lastMsg;
+	}
+
+	public string getUsername() {
+		return Username;
+	}
+
+	public void setUsername(string username) {
+		Username = username;
+	}
+
+
+}
