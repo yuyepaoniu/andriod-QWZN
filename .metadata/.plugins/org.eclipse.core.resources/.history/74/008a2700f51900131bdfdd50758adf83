@@ -1,0 +1,9 @@
+package com.example.controls;
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.ArrayAdapter;
+import android.widget.AutoCompleteTextView;
+import android.widget.MultiAutoCompleteTextView;
+public class ArrayAdapterSimple  extends Activity{
+
+}

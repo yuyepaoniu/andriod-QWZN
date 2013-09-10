@@ -1,0 +1,13 @@
+package com.example.controls;
+
+import android.R.integer;
+import android.R.string;
+
+public class User {
+	
+	int AskedNum=0;
+	string LastMsg="";
+	   user.setAskedNum(8);  
+       user.setLastMsg("hello");  
+       user.setUsername("pxx");
+}
